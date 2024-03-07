@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋 I'm Clément<img height="40"</h1>
+<p>Etudiant en troisième année de BUT informatique à l'IUT Nancy-Charlemagne</p>
 
 BLALBLABLA
 **ClemGrom/ClemGrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
