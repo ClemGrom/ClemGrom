@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋 I'm Clément<img height="40"</h1>
+<br>
+
 <p>Etudiant en troisième année de BUT informatique à l'IUT Nancy-Charlemagne</p>
+
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=clemgrom&theme=radical&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clemgrom&theme=radical&layout=compact" />
+</p>
+
+
 
 BLALBLABLA
 **ClemGrom/ClemGrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
