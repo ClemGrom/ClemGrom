@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋 I'm Clément<img height="40"</h1>
 <br>
+<br>
 
 <p>Etudiant en troisième année de BUT informatique à l'IUT Nancy-Charlemagne</p>
 
-- 🔭 I’m currently working on <div link="https://github.com/ClemGrom/NonoLERobot_Gromangin_Termine_Holder_Waltispurger_Serrier"> Nono le Robot</div>
+- 🔭 I’m currently working on <div href="https://github.com/ClemGrom/NonoLERobot_Gromangin_Termine_Holder_Waltispurger_Serrier"> Nono le Robot</div>
 - 🌱 I’m currently learning ...
 
 <p align= "center">
