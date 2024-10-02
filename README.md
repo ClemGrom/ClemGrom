@@ -6,7 +6,8 @@
 
 🔭 I’m currently working on <a href="https://github.com/ClemGrom/NonoLERobot_Gromangin_Termine_Holder_Waltispurger_Serrier"> Nono le Robot</a>
 <br>
-🌱 I’m currently learning <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/280px-C_Programming_Language.svg.png" width="40" height="40">
+🌱 I’m currently learning <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" height="40"> and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40">
+
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -35,6 +36,8 @@
   </a>
   <a href="https://nuxt.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" width="40" height="40"> 
+  </a><a href="https://nuxt.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/280px-C_Programming_Language.svg.png" width="40" height="40">
   </a>
   
 </p>
