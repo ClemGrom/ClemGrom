@@ -40,11 +40,14 @@
 </p>
 
 <h3 align="center">Projets précédents :</h3>
-<ul align="center">
-  <li><a href="https://github.com/ClemGrom/NonoLERobot_Gromangin_Termine_Holder_Waltispurger_Serrier" target="_blank">Nono le Robot</a></li>
-  <li><a href="https://github.com/IUTNancyCharlemagne/SalleMagne" target="_blank">SalleMagne</a></li>
-  <li><a href="https://github.com/ClemGrom/Gromangin-Holder-ProjetNuxt" target="_blank">Forum en Nuxt.js</a></li>
-</ul>
+
+<div align="center">
+  <ul style="list-style: none;">
+    <li><a href="https://github.com/ClemGrom/NonoLERobot_Gromangin_Termine_Holder_Waltispurger_Serrier" target="_blank">Nono le Robot</a></li>
+    <li><a href="https://github.com/IUTNancyCharlemagne/SalleMagne" target="_blank">SalleMagne</a></li>
+    <li><a href="https://github.com/ClemGrom/Gromangin-Holder-ProjetNuxt" target="_blank">Forum en Nuxt.js</a></li>
+  </ul>
+</div>
 
 <h3 align="center">📊 GitHub Stats:</h3>
 
