@@ -2,7 +2,7 @@
 <br>
 <br>
 
-<p>Etudiant en troisième année de BUT informatique à l'IUT Nancy-Charlemagne</p>
+<p>Développeur diplomé d'un BUT informatique à l'IUT Nancy-Charlemagne</p>
 
 🔭 I’m currently working on <a href="https://github.com/ClemGrom/NonoLERobot_Gromangin_Termine_Holder_Waltispurger_Serrier"> Nono le Robot</a>
 <br>
