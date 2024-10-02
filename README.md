@@ -11,12 +11,13 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
-  <a href="https://www.java.com/fr/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="40" height="40"/> 
-  </a> 
+  
   <a href="https://vuejs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> 
   </a>  
+  <a href="https://www.python.org" target="_blank"> 
+    <img src"https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
   <a href="https://www.java.com/fr/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="40" height="40"/> 
   </a> 
