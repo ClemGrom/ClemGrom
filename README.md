@@ -3,7 +3,7 @@
 <p align="center">Développeur diplômé d'un BUT informatique à l'IUT Nancy-Charlemagne</p>
 
 <p align="center">
-  🔭 Je travaille actuellement sur <a href="https://github.com/ClemGrom/NonoLERobot_Gromangin_Termine_Holder_Waltispurger_Serrier" target="_blank">Nono le Robot</a><br>
+  🔭 Je travaille actuellement sur <a href="https://lamaisondilatte.com/" target="_blank">La Maison Di Latte</a><br> 
   🌱 Je suis en train d'apprendre <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" height="40"/> et <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
 </p>
 
@@ -38,6 +38,11 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/280px-C_Programming_Language.svg.png" width="40" height="40"/>
   </a>
 </p>
+
+<h3>Ancien projet :</h3>
+<a href="https://github.com/ClemGrom/NonoLERobot_Gromangin_Termine_Holder_Waltispurger_Serrier" target="_blank">Nono le Robot</a><br>
+<a href="https://github.com/IUTNancyCharlemagne/SalleMagne" target="_blank">SalleMagne</a><br>
+<a href="https://github.com/ClemGrom/Gromangin-Holder-ProjetNuxt" target="_blank">Forum en NuxtJs</a><br>
 
 <h3 align="center">📊 GitHub Stats:</h3>
 
